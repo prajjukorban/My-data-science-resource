@@ -6,7 +6,7 @@
 
 - **Python Basics**: Resources to get started with Python programming.
 - **Data Analysis**: Techniques for cleaning and exploring data.
-- **Machine Learning**: Tutorials and code for popular ML algorithms.
+- **Machine Learning**: Tutorials and code for popular Machine Learning algorithms.
 - **Data Visualization**: Tools like Matplotlib and Seaborn for visualizing data.
 - **Projects and Practice**: Mini projects and datasets to build skills.
 
